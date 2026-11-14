@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/PhotoDotPi/pico/releases/download/pico-v1.0.0/pico-1.0.0-x86_64-pc-windows-msvc.zip",
-      "hash": "REPLACE_WITH_SHA256"
+      "hash": "1eaba2fcf1cc462d97893c24cd847fa7bff5dc7fb60b514cf0e1042a1357c3dc"
     }
   },
   "bin": "pico.exe",
